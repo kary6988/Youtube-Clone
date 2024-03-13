@@ -1,0 +1,13 @@
+/* Link styles */
+.channel-link {
+    display: contents;
+    width: 0;
+    text-decoration: none;
+}
+.video-link {
+    text-decoration: none;
+    color: black;
+}
+.video-link::after {
+    color: black;
+}
